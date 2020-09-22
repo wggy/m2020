@@ -1,0 +1,2 @@
+org.wangep.spi.serializer.JavaSerializer
+org.wangep.spi.serializer.KryoSerializer
